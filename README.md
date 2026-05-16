@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Kadarisridhar
 - 👀 I’m interested in Development ( Web and Software) 
-- 🌱 I’m currently learning C Language
 - 📫 For any queries and collaborations you can reach me by mail
 - ksridhar709@gmail.com
 
